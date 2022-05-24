@@ -3,3 +3,4 @@ function sayHello(name){
 }
 
 sayHello("Nirmiti")
+sayHello("N")
